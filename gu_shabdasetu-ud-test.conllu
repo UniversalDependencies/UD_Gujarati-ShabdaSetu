@@ -1,0 +1,656 @@
+# sent_id = Ch_5_corrected-1
+# text = એક વખત એક હાથી હતો અને એક નાનું મચ્છર હતું .
+# source = text2_pg92
+# language = Gujarati
+# translit = ek vəkhət ek hathi hǝto ane ek nəhaņū məcchər hətü.
+# translation = Once there was an elephant and a small mosquito.
+1	એક	એક	DET	_	_	3	det	_	Gloss=one|GuGloss=એક
+2	વખત	વખત	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	4	obl	_	Gloss=time|GuGloss=વખત
+3	એક	એક	DET	_	_	4	det	_	Gloss=one|GuGloss=એક
+4	હાથી	હાથી	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	Gloss=elephant|GuGloss=હાથી
+5	હતો	હતો	AUX	_	Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	Gloss=was|GuGloss=હતો
+6	અને	અને	CCONJ	_	_	10	cc	_	Gloss=and|GuGloss=અને
+7	એક	એક	DET	_	_	9	det	_	Gloss=one|GuGloss=એક
+8	નાનું	નાનું	ADJ	_	_	9	amod	_	Gloss=small|GuGloss=નાનું
+9	મચ્છર	મચ્છર	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	10	nsubj	_	Gloss=mosquito|GuGloss=મચ્છર
+10	હતું	હોવું	AUX	_	Gender=Neut|Number=Sing|Tense=Past|VerbForm=Fin	_	_	_	Gloss=be-had|GuGloss=હતું
+11	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = Ch_5_corrected-2
+# text = હાથીને પોતાના બળ વિષે બહુ જ મગરુરી હતી .
+# source = text2_pg92
+# language = Gujarati
+# translit = hathi ne pota na bal viśəy bə'uj məgruri həti
+# translation = The elephant was very proud of his strength.
+1	હાથીને	હાથી	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	7	obl	_	Gloss=elephant+acc|GuGloss=હાથીને
+2	પોતાના	પોતાના	PRON	_	_	3	nmod:poss	_	Gloss=self+gen|GuGloss=પોતા-ના
+3	બળ	બળ	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	7	obl	_	Gloss=strength|GuGloss=બળ
+4	વિષે	વિષે	ADP	_	ExtPos=ADP	3	case	_	Gloss=about|GuGloss=વિષે
+5	બહુ	બહુ	ADJ	_	_	7	advmod	_	Gloss=great|GuGloss=બહુ
+6	જ	જ	PART	_	_	5	advmod	_	Gloss=only|GuGloss=જ
+7	મગરુરી	મગરુરી	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	Gloss=pride|GuGloss=મગરુરી
+8	હતી	હતી	AUX	_	_	7	cop	_	Gloss=be-had|GuGloss=હતી
+9	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = Ch_5_corrected-3
+# text = મચ્છરને જોઈને હાથીએ કહ્યું , તું એટલો નાનો છે કે હું તને મારા પગ હેઠળ એક પળમાં કચડી નાખું .
+# source = text2_pg92
+# language = Gujarati
+# translit = məcchər ne joine hathi e kəhyű: tu atlo nəhəlo che ke hũ ta ne ma'ra pag hethal ek pol mã kəcri nakhū.
+# translation = Seeing the mosquito, the elephant said: you are so
+1	મચ્છરને	મચ્છરને	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	2	obj	_	Gloss=mosquito+acc|GuGloss=મચ્છરને
+2	જોઈને	જોઈને	VERB	_	VerbForm=Ger	3	advcl	_	Gloss=see+conn.|GuGloss=જોઈને
+3	હાથીએ	હાથીએ	NOUN	_	Case=Erg|Gender=Masc|Number=Sing	4	nsubj	_	Gloss=elephant+part|GuGloss=હાથીએ
+4	કહ્યું	કહ્યું	VERB	_	Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	Gloss=say+past|GuGloss=કહ્યું
+5	,	,	PUNCT	_	_	4	punct	_	_
+6	તું	તું	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	8	nsubj	_	Gloss=you|GuGloss=તું
+7	એટલો	એટલો	ADV	_	_	8	advmod	_	Gloss=so much|GuGloss=એટલો
+8	નાનો	નાનો	ADJ	_	_	4	parataxis	_	Gloss=small|GuGloss=નાનો
+9	છે	છે	AUX	_	_	8	cop	_	Gloss=are|GuGloss=છે
+10	કે	કે	SCONJ	_	_	17	mark	_	Gloss=that|GuGloss=કે
+11	હું	હું	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	17	nsubj	_	Gloss=i|GuGloss=હું
+12	તને	તને	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs	17	obj	_	Gloss=you|GuGloss=તને
+13	મારા	મારા	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=1|Poss=Yes|PronType=Prs	14	nmod:poss	_	Gloss=my|GuGloss=મારા
+14	પગ	પગ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	17	obl	_	Gloss=foot|GuGloss=પગ
+15	હેઠળ	હેઠળ	ADP	_	ExtPos=ADP	14	case	_	Gloss=below|GuGloss=હેઠળ
+16	એક	એક	DET	_	_	17	det	_	Gloss=one|GuGloss=એક
+17	પળમાં	પળમાં	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	18	obl	_	Gloss=moment+loc|GuGloss=પળ
+18	કચડી	કચડી	VERB	_	_	8	advcl	_	Gloss=crush|GuGloss=કચડી
+19	નાખું	નાખું	AUX	_	_	18	aux	_	Gloss=finish+future|GuGloss=નાખું
+20	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = Ch_5_corrected-4
+# text = મચ્છરે જવાબ આપ્યો : હું ભલે નાનો હોઉં , પણ મારામાં કંઈ કમી નથી .
+# source = text2_pg92
+# language = Gujarati
+# translit = məcchər e jawab apyo: hũ bhole nəhǝlo hou pən mara mă kai kəmi nəthi.
+# translation = The mosquito replied: I may be small, but I am just as good
+1	મચ્છરે	મચ્છરે	NOUN	_	Case=Erg|Gender=Neut|Number=Sing	3	nsubj	_	Gloss=mosquito+erg|GuGloss=મચ્છરે
+2	જવાબ	જવાબ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	obj	_	Gloss=answer|GuGloss=જવાબ
+3	આપ્યો	આપ્યો	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	Gloss=gave|GuGloss=આપ્યો
+4	:	:	PUNCT	_	_	3	punct	_	_
+5	હું	હું	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	Gloss=i|GuGloss=હું
+6	ભલે	ભલે	PART	_	_	7	mark	_	Gloss=good|GuGloss=ભલે
+7	નાનો	નાનો	ADJ	_	_	13	advcl	_	Gloss=small|GuGloss=નાનો
+8	હોઉં	હોઉં	AUX	_	_	7	cop	_	Gloss=be|GuGloss=હોઉં
+9	,	,	PUNCT	_	_	7	punct	_	_
+10	પણ	પણ	CCONJ	_	_	12	cc	_	Gloss=but|GuGloss=પણ
+11	મારામાં	મારામાં	PRON	_	Case=Loc|Number=Sing|Person=1|PronType=Prs	12	obl	_	Gloss=my+loc|GuGloss=મારામાં
+12	કંઈ	કંઈ	DET	_	PronType=Ind	13	det	_	Gloss=any|GuGloss=કંઈ
+13	કમી	કમી	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	3	parataxis	_	Gloss=less|GuGloss=કમી
+14	નથી	નથી	AUX	_	_	13	aux:neg	_	Gloss=not|GuGloss=નથી
+15	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = Ch_5_corrected-5
+# text = તું મને કચડીને દેખાડ .
+# source = text2_pg92
+# language = Gujarati
+# translit = tu mə'ne kachr ine to dekhad
+# translation = Try and crush me.
+1	તું	તું	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	Gloss=you|GuGloss=તું
+2	મને	હું	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	3	obj	_	Gloss=me|GuGloss=મને
+3	કચડીને	કચડીને	VERB	_	VerbForm=Conv	4	advcl	_	Gloss=crush+conn.part|GuGloss=કચડીને
+4	દેખાડ	દેખાડ	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	Gloss=show|GuGloss=દેખાડ
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = Ch_5_corrected-6
+# text = આ સાંભળીને હાથીએ પગ ઉંચક્યો , પણ મચ્છર તરત ઉડી ગયો .
+# source = text2_pg92
+# language = Gujarati
+# translit = a sabhl ine hathi e pag ucəkyo pən məcchər turǝnt udi gǝyű.
+# translation = At these words, the elephant raised his foot, but the mosquito immediately flew off
+1	આ	આ	PRON	_	Gender=Neut|Number=Sing|PronType=Dem	2	obj	_	Gloss=this|GuGloss=આ
+2	સાંભળીને	સાંભળીને	VERB	_	VerbForm=Conv	5	advcl	_	Gloss=hear+conn.part|GuGloss=સાંભળીને
+3	હાથીએ	હાથીએ	NOUN	_	Case=Erg|Gender=Masc|Number=Sing	5	nsubj	_	Gloss=elephant+erg|GuGloss=હાથીએ
+4	પગ	પગ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	5	obj	_	Gloss=leg|GuGloss=પગ
+5	ઉંચક્યો	ઉંચક્યો	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	Gloss=lifted|GuGloss=ઉંચક્યો
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	પણ	પણ	CCONJ	_	_	10	cc	_	Gloss=but|GuGloss=પણ
+8	મચ્છર	મચ્છર	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	10	nsubj	_	Gloss=mosquito|GuGloss=મચ્છર
+9	તરત	તરત	ADV	_	_	10	advmod	_	Gloss=immediate|GuGloss=તરત
+10	ઉડી	ઉડી	VERB	_	Gender=Neut|Number=Sing|Tense=Past|VerbForm=Fin	5	conj	_	Gloss=flew|GuGloss=ઉડી
+11	ગયો	જા	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	10	aux	_	Gloss=off|GuGloss=ગયો
+12	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = Ch_5_corrected-7
+# text = એ જઈને હાથીના કાનમાં પેઠું અને અંદર ગણગણવા લાગ્યું .
+# source = text2_pg92
+# language = Gujarati
+# translit = e jaine hathi nă kan mã pethü ǝne əndər ganganva lagyű.
+# translation = It sat in the elephant's ear and started humming.
+1	એ	એ	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	Gloss=it|GuGloss=એ
+2	જઈને	જા	VERB	_	VerbForm=Conv	5	advcl	_	Gloss=go+conn.part|GuGloss=જઈને
+3	હાથીના	હાથી	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	4	nmod:poss	_	Gloss=elephant+gen|GuGloss=હાથીના
+4	કાનમાં	કાન	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	5	obl	_	Gloss=ear+loc.got|GuGloss=કાનમાં
+5	પેઠું	પેસવું	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	Gloss=enter|GuGloss=પેઠું
+6	અને	અને	CCONJ	_	_	9	cc	_	Gloss=and|GuGloss=અને
+7	અંદર	અંદર	ADV	_	_	9	advmod	_	Gloss=in|GuGloss=અંદર
+8	ગણગણવા	ગણગણવા	VERB	_	VerbForm=Inf	9	advcl	_	Gloss=hummning|GuGloss=ગણગણવા
+9	લાગ્યું	લાગવું	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Fin	5	conj	_	Gloss=do|GuGloss=લાગ્યું
+10	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = Ch_5_corrected-8
+# text = હાથી તો ગાંડો થઈ ગયો અને મચ્છરને બહાર કાઢવા ઘણા પ્રયત્ન કર્યા .
+# source = text2_pg92
+# language = Gujarati
+# translit = hathi to gando thai gayo ǝne məcchər ne bəhar kadh vana ghəna prəytnə kərya.
+# translation = The elephant went mad and tried his best to get the mosquito out.
+1	હાથી	હાથી	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	Gloss=elephant|GuGloss=હાથી
+2	તો	તો	PART	_	_	1	advmod	_	Gloss=emph|GuGloss=તો
+3	ગાંડો	ગાંડો	ADJ	_	_	4	xcomp	_	Gloss=mad|GuGloss=ગાંડો
+4	થઈ	થવું	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	Gloss=became|GuGloss=થઈ
+5	ગયો	જા	AUX	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Fin	4	aux	_	Gloss=went|GuGloss=ગયો
+6	અને	અને	CCONJ	_	_	12	cc	_	Gloss=and|GuGloss=અને
+7	મચ્છરને	મચ્છર	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	9	obj	_	Gloss=mosquito+acc|GuGloss=મચ્છરને
+8	બહાર	બહાર	ADV	_	_	9	advmod	_	Gloss=out|GuGloss=બહાર
+9	કાઢવા	કાઢવું	VERB	_	VerbForm=Inf	12	advcl	_	Gloss=take+inf.part|GuGloss=કાઢવા
+10	ઘણા	ઘણા	DET	_	Gender=Masc|Number=Plur|PronType=Ind	11	det	_	Gloss=many|GuGloss=ઘણા
+11	પ્રયત્ન	પ્રયત્ન	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	12	obj	_	Gloss=attempts|GuGloss=પ્રયત્ન
+12	કર્યા	કરવું	VERB	_	Aspect=Perf|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Fin	4	conj	_	Gloss=did|GuGloss=કર્યા
+13	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = Ch_5_corrected-9
+# text = પણ મચ્છર તો બહાર ન નીકળ્યો .
+# source = text2_pg92
+# language = Gujarati
+# translit = pan məcchər to bəhar nikle na.
+# translation = But the mosquito would not come out.
+1	પણ	પણ	CCONJ	_	_	5	cc	_	Gloss=but|GuGloss=પણ
+2	મચ્છર	મચ્છર	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	5	nsubj	_	Gloss=mosquito|GuGloss=મચ્છર
+3	તો	તો	PART	_	_	2	advmod	_	Gloss=emph|GuGloss=તો
+4	બહાર	બહાર	ADV	_	_	5	advmod	_	Gloss=out|GuGloss=બહાર
+5	ન	ન	PART	_	_	6	advmod	_	Gloss=not|GuGloss=ન
+6	નીકળ્યો	નીકળવું	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	Gloss=come|GuGloss=નીકળ્યો
+7	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = Ch_5_corrected-10
+# text = એને હાથીએ પૂછ્યું , કેમ ભાઈ , કહો છો , બળવાન કોણ ?
+# source = text2_pg92
+# language = Gujarati
+# translit = ene hathi ne puchyū kem bhai, kəho cho. bəlvan kon?
+# translation = He asked the elephant: Well brother, what do you have to say? Who is stronger?
+1	એને	એ	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	Gloss=him|GuGloss=એને
+2	હાથીએ	હાથી	NOUN	_	Case=Erg|Gender=Masc|Number=Sing	3	obj	_	Gloss=elephant+acc|GuGloss=હાથીએ
+3	પૂછ્યું	પૂછવું	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	Gloss=asked|GuGloss=પૂછ્યું
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	કેમ	કેમ	ADV	_	_	7	discourse	_	Gloss=how|GuGloss=કેમ
+6	ભાઈ	ભાઈ	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	7	vocative	_	Gloss=brother|GuGloss=ભાઈ
+7	,	,	PUNCT	_	_	6	punct	_	_
+8	કહો	કેહવું	VERB	_	Number=Plur|Person=2|VerbForm=Fin	3	parataxis	_	Gloss=say|GuGloss=કહો
+9	છો	છો	AUX	_	_	8	aux	_	Gloss=are|GuGloss=છો
+10	,	,	PUNCT	_	_	8	punct	_	_
+11	બળવાન	બળવાન	ADJ	_	_	13	nsubj	_	Gloss=strong|GuGloss=બળવાન
+12	કોણ	કોણ	ADJ	_	_	13	ccomp	_	Gloss=who|GuGloss=બળવાન
+13	?	?	PUNCT	_	_	3	punct	_	_
+
+# sent_id = Ch_5_corrected-11
+# text = છેવટે હાથીએ હાર માંગી અને કહ્યું : મચ્છર ભાઈ , મને માફ કરો અને બહાર નીકળો , મારાથી વેદના સહન થતી નથી .
+# source = text2_pg92
+# language = Gujarati
+# translit = chevǝte hathi e har māgi ǝne kəhyū : məcchər bhai, məne maph kəro ǝne bəhar niklo, mara thi vedna khəmati nəthi.
+# translation = In the end the elephant accepted defeat and said: Friend mosquito, forgive me and please come out. I cannot bear the pain.
+1	છેવટે	છેવટે	ADV	_	Case=Loc|Gender=Masc|Number=Sing	6	advmod	_	Gloss=in end|GuGloss=છેવટે
+2	હાથીએ	હાથી	NOUN	_	Case=Erg|Gender=Masc|Number=Sing	6	nsubj	_	Gloss=elephant+dat.|GuGloss=હાથીએ
+3	હાર	હાર	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	4	obj	_	Gloss=defeat|GuGloss=હાર
+4	માંગી	માંગવું	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Fin	5	conj	_	Gloss=asked|GuGloss=માંગી
+5	અને	અને	CCONJ	_	_	6	cc	_	Gloss=and|GuGloss=અને
+6	કહ્યું	કેહવું	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	Gloss=said|GuGloss=કહ્યું
+7	:	:	PUNCT	_	_	6	punct	_	_
+8	મચ્છર	મચ્છર	NOUN	_	Case=Voc|Gender=Neut|Number=Sing	6	vocative	_	Gloss=mosquito|GuGloss=મચ્છર
+9	ભાઈ	ભાઈ	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	6	vocative	_	Gloss=brother|GuGloss=ભાઈ
+10	,	,	PUNCT	_	_	9	punct	_	_
+11	મને	હું	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	12	obj	_	Gloss=me|GuGloss=મને
+12	માફ	માફ	ADJ	_	_	13	xcomp	_	Gloss=forgive|GuGloss=માફ
+13	કરો	કરવું	VERB	_	Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	6	parataxis	_	Gloss=do|GuGloss=કરો
+14	અને	અને	CCONJ	_	_	16	cc	_	Gloss=and|GuGloss=અને
+15	બહાર	બહાર	ADV	_	_	16	advmod	_	Gloss=out|GuGloss=બહાર
+16	નીકળો	નીકળવું	VERB	_	Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	13	conj	_	Gloss=come|GuGloss=નીકળો
+17	,	,	PUNCT	_	_	13	punct	_	_
+18	મારાથી	હું	PRON	_	Case=Ins|Number=Sing|Person=1|PronType=Prs	21	obj	_	Gloss=by me|GuGloss=મારાથી
+19	વેદના	વેદના	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	20	obj	_	Gloss=pain|GuGloss=વેદના
+20	સહન	સહન	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	21	obj	_	Gloss=bear|GuGloss=સહન
+21	થતી	થવું 	VERB	_	Aspect=Hab|Gender=Fem|Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Fin	6	parataxis	_	Gloss=is|GuGloss=થતી
+22	નથી	નથી	AUX	_	_	21	aux:neg	_	Gloss=not|GuGloss=નથી
+23	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = Ch_5_corrected-12
+# text = મોટાથી બિહવું નહિ .
+# source = text2_pg92
+# language = Gujarati
+# translit = moṭa thi bihvū nəhi.
+# translation = Fear not the big.
+1	મોટાથી	મોટો	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	2	nsubj	_	Gloss=big+from|GuGloss=મોટાથી
+2	બિહવું	બિહવું	VERB	_	VerbForm=Inf	0	root	_	Gloss=fear|GuGloss=બિહવું
+3	નહિ	નહિ	PART	_	_	2	advmod	_	Gloss=not|GuGloss=નહિ
+4	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = Ch_5_corrected-13
+# text = અને નાનાથી લડવું નહિ .
+# source = text2_pg92
+# language = Gujarati
+# translit = ane nəhəla thi ləḍvū nəhi
+# translation = And do not fight with the small.
+1	અને	અને	CCONJ	_	_	3	cc	_	Gloss=and|GuGloss=અને
+2	નાનાથી	નાનો	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	3	nsubj	_	Gloss=small+from|GuGloss=નાનાથી
+3	લડવું	લડવું	VERB	_	VerbForm=Inf	0	root	_	Gloss=fight|GuGloss=લડવું
+4	નહિ	નહિ	PART	_	_	3	advmod	_	Gloss=not|GuGloss=નહિ
+5	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = Grammar_gujarati-1
+# text = તું આવ્યો હોત , તો શું કર્યું હોત .
+# source = pg 45
+# language = Gujarati
+# translit = tu āvyo hot , to śũ karyũ hot  .
+# translation = If you had come , what would you have done?
+1	તું	તું	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	Gloss=you.nom|GuGloss=તું
+2	આવ્યો	આવ્યો	VERB	_	Aspect=Perf|Number=Sing|Tense=Past|VerbForm=Fin	7	advcl	_	Gloss=come-pst.ptcp|GuGloss=આવ્યો
+3	હોત	હોત	AUX	_	Mood=Cond|Tense=Past	2	aux	_	Gloss=be-cond|GuGloss=હોત
+4	,	,	PUNCT	_	Mood=Cond	2	punct	_	Gloss=be-cond|GuGloss=હોત
+5	તો	તો	SCONJ	_	_	7	mark	_	Gloss=then|GuGloss=તો
+6	શું	શું	PRON	_	PronType=Int	7	obj	_	Gloss=what|GuGloss=શું
+7	કર્યું	કરવું	VERB	_	Aspect=Perf|Mood=Sub|Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	Gloss=do-pst.ptcp|GuGloss=કર્યું
+8	હોત	હોત	AUX	_	Mood=Cond|Tense=Past	7	aux	_	Gloss=be-cond|GuGloss=હોત
+9	.	.	PUNCT	_	Mood=Cond	8	punct	_	Gloss=be-cond|GuGloss=હોત
+
+# sent_id = Grammar_gujarati-2
+# text = તું સફર કરતો હોત , તો શું કરત .
+# source = pg 45
+# language = Gujarati
+# translit = tu safar karto hot, to śũ karat
+# translation = If you had been travelling, what would you have done?
+1	તું	તું	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	Gloss=you.nom|GuGloss=તું
+2	સફર	સફર	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	3	obj	_	Gloss=travel|GuGloss=સફર
+3	કરતો	કરવું	VERB	_	Aspect=Perf|Mood=Sub|Number=Sing|Tense=Past|VerbForm=Part	8	advcl	_	Gloss=do-prs.ptcp|GuGloss=કરતો
+4	હોત	હોત	AUX	_	Mood=Cond|Tense=Past	3	aux	_	Gloss=be-cond|GuGloss=હોત
+5	,	,	PUNCT	_	_	3	punct	_	_
+6	તો	તો	SCONJ	_	_	3	mark	_	Gloss=then|GuGloss=તો
+7	શું	શું	PRON	_	_	8	obj	_	Gloss=what|GuGloss=શું
+8	કરત	કરત	VERB	_	Mood=Cond|Tense=Past|VerbForm=Fin	0	root	_	Gloss=do-cond|GuGloss=કરત
+9	.	.	PUNCT	_	Mood=Cond	8	punct	_	_
+
+# sent_id = Grammar_gujarati-3
+# text = મનમાં વેર રાખીને તું મારો મિત્ર થયો છે .
+# source = pg 47
+# language = Gujarati
+# translit = mənma ver rakhine tu maro mitr thǝyo che
+# translation = You have become my friend with revenge in your heart.
+1	મનમાં	મન	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	3	obl	_	Gloss=mind+in|GuGloss=મનમાં
+2	વેર	વેર	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	3	obl	_	Gloss=revenge|GuGloss=વેર
+3	રાખીને	રાખવું	VERB	_	VerbForm=Conv	7	advcl	_	Gloss=keep+conv|GuGloss=રાખીને
+4	તું	તું	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	7	nsubj	_	Gloss=you|GuGloss=તું
+5	મારો	હું	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=1|Poss=Yes|PronType=Prs	6	nmod:poss	_	Gloss=my.masc|GuGloss=મારો
+6	મિત્ર	મિત્ર	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	7	xcomp	_	Gloss=friend|GuGloss=મિત્ર
+7	થયો	થવું	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	Gloss=become.pst.ptcp|GuGloss=થયો
+8	છે	છે	AUX	_	Mood=Ind	7	aux	_	Gloss=be.pres|GuGloss=છે
+9	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = Grammar_gujarati-4
+# text = બધું કામ આજે કર , અથવા બે દિવસમાં કર .
+# source = pg 83
+# language = Gujarati
+# translit = badhũ kām āje kar, athvāto be divas-mā̃ kar
+# translation = Do all the work today or do it in two days.
+1	બધું	બધું	DET	_	Gender=Neut|PronType=Tot	2	det	_	Gloss=all.n|GuGloss=બધું
+2	કામ	કામ	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	4	obj	_	Gloss=work|GuGloss=કામ
+3	આજે	આજ	ADV	_	_	4	advmod	_	Gloss=today|GuGloss=આજે
+4	કર	કર	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	Gloss=do.imp|GuGloss=કર
+5	,	,	PUNCT	_	_	4	punct	_	_
+6	અથવા	અથવા	CCONJ	_	_	9	cc	_	Gloss=or|GuGloss=અથવા
+7	બે	બે	NUM	_	_	8	nummod	_	Gloss=two|GuGloss=બે
+8	દિવસમાં	દિવસ	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	9	obl	_	Gloss=day-loc|GuGloss=દિવસમાં
+9	કર	કર	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	4	conj	_	Gloss=do.imp|GuGloss=કર
+10	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = Grammar_gujarati-5
+# text = આજે મુશ્કેલ છે , પણ કાલે જરૂર આવીશ .
+# source = pg 83
+# language = Gujarati
+# translit = āje muśkel che, paṇ kāle jarūr āvīś
+# translation = Today is difficult, but I will surely come tomorrow.
+1	આજે	આજ	ADV	_	_	3	advmod	_	Gloss=today|GuGloss=આજે
+2	મુશ્કેલ	મુશ્કેલ	ADV	_	Degree=Pos	0	root	_	Gloss=difficult|GuGloss=મુશ્કેલ
+3	છે	છે	AUX	_	Mood=Ind	2	cop	_	Gloss=be.prs|GuGloss=છે
+4	,	,	PUNCT	_	_	2	punct	_	_
+5	પણ	પણ	CCONJ	_	_	8	cc	_	Gloss=but|GuGloss=પણ
+6	કાલે	કાલ	ADV	_	_	8	advmod	_	Gloss=tomorrow|GuGloss=કાલે
+7	જરૂર	જરૂર	ADV	_	_	8	advmod	_	Gloss=surely|GuGloss=જરૂર
+8	આવીશ	આવીશ	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	2	conj	_	Gloss=come-fut.1sg|GuGloss=આવીશ
+9	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = Grammar_gujarati-6
+# text = મેં એને ચેતવ્યો હતો , છતાંપણ ગયો .
+# source = pg 83
+# language = Gujarati
+# translit = mẽ ene cetavyo hato, chhatā paṇ gayo
+# translation = I had warned him, nonetheless he went.
+1	મેં	હું	PRON	_	_	3	nsubj	_	Gloss=i-erg|GuGloss=મેં
+2	એને	એને	PRON	_	_	3	obj	_	Gloss=him.dat|GuGloss=એને
+3	ચેતવ્યો	ચેતવું	VERB	_	Mood=Ind	4	aux	_	Gloss=warn-pst.ptcp|GuGloss=ચેતવ્યો
+4	હતો	હતો	AUX	_	Mood=Ind	_	_	_	Gloss=be.pst|GuGloss=હતો
+5	,	,	PUNCT	_	_	3	punct	_	_
+6	છતાંપણ	છતાંપણ	CCONJ	_	_	7	cc	_	_
+7	ગયો	ગયો	NOUN	_	Mood=Ind	0	root	_	Gloss=go-pst.ptcp|GuGloss=ગયો
+8	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = Grammar_gujarati-7
+# text = લીનાએ જોયું કે મગનની તબિયત સારી ન હતી .
+# source = pg 83
+# language = Gujarati
+# translit = līnā-e joyũ ke magan-nī tabiyat sārī na hatī
+# translation = Lina saw that Magan was not in good health.
+1	લીનાએ	લીના	PROPN	_	Case=Erg|Gender=Fem|Number=Sing	2	nsubj	_	Gloss=lina-erg|GuGloss=લીનાએ
+2	જોયું	જોવું	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	Gloss=see-pst.ptcp|GuGloss=જોયું
+3	કે	કે	SCONJ	_	_	6	mark	_	Gloss=that|GuGloss=કે
+4	મગનની	મગન	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	5	nmod:poss	_	Gloss=magan-gen|GuGloss=મગનની
+5	તબિયત	તબિયત	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	Gloss=health|GuGloss=તબિયત
+6	સારી	સારી	ADJ	_	_	2	ccomp	_	Gloss=good|GuGloss=સારી
+7	ન	ન	PART	_	_	6	advmod	_	Gloss=neg|GuGloss=ન
+8	હતી	હતી	AUX	_	Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	6	cop	_	Gloss=be.pst|GuGloss=હતી
+9	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = Grammar_gujarati-8
+# text = હું આ જે છોકરાને મળ્યો , તેની મા ત્યાં રહે છે .
+# source = pg 85
+# language = Gujarati
+# translit = hũ ā je chokra-ne malyo, tenī mā tyā̃ rahe che
+# translation = I met this boy, whose mother lives there.
+1	હું	હું	PRON	_	_	5	nsubj	_	Gloss=i.nom|GuGloss=હું
+2	આ	આ	DET	_	Number=Sing|PronType=Dem	4	det	_	Gloss=this|GuGloss=આ
+3	જે	જે	PRON	_	Number=Sing|PronType=Rel	5	nsubj	_	Gloss=rel|GuGloss=જે
+4	છોકરાને	છોકરો	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	5	obj	_	Gloss=boy-acc|GuGloss=છોકરાને
+5	મળ્યો	મળ્યો	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	10	acl:relcl	_	Gloss=meet-pst.ptcp|GuGloss=મળ્યો
+6	,	,	PUNCT	_	_	10	acl:relcl	_	_
+7	તેની	તે	PRON	_	Gender=Fem|Number=Sing|Person=3	8	nmod:poss	_	Gloss=he.gen|GuGloss=તેની
+8	મા	મા	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	10	nsubj	_	Gloss=mother|GuGloss=મા
+9	ત્યાં	ત્યાં	ADV	_	_	10	advmod	_	Gloss=there|GuGloss=ત્યાં
+10	રહે	રહેવું	VERB	_	Aspect=Hab|Gender=Masc|Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=live|GuGloss=રહે
+11	છે	છે	AUX	_	_	10	aux	_	Gloss=be.prs|GuGloss=છે
+12	.	.	PUNCT	_	_	10	punct	_	_
+
+# sent_id = Grammar_gujarati-9
+# text = આ પુસ્તક , જે એને લીધી , તે મોંઘી છે .
+# source = pg 85
+# language = Gujarati
+# translit = ā pustak, je ene līdhī, te mõghī che
+# translation = This book which he took is expensive.
+1	આ	આ	DET	_	Number=Sing|PronType=Dem	2	det	_	Gloss=this|GuGloss=આ
+2	પુસ્તક	પુસ્તક	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	9	nsubj	_	Gloss=book|GuGloss=પુસ્તક
+3	,	,	NOUN	_	_	9	nsubj	_	_
+4	જે	જે	PRON	_	Case=Nom|PronType=Rel	5	obj	_	Gloss=rel|GuGloss=જે
+5	એને	એને	PRON	_	Case=Erg|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	Gloss=he.dat|GuGloss=એને
+6	લીધી	લીધી	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	2	acl:relcl	_	Gloss=take-pst.ptcp|GuGloss=લીધી
+7	,	,	PUNCT	_	_	2	punct	_	_
+8	તે	તે	PRON	_	Gender=Neut|Number=Sing|PronType=Dem	9	nsubj	_	Gloss=that|GuGloss=તે
+9	મોંઘી	મોંઘું	ADJ	_	_	0	root	_	Gloss=expensive|GuGloss=મોંઘી
+10	છે	છે	AUX	_	Mood=Ind	9	cop	_	Gloss=be.prs|GuGloss=છે
+11	.	.	PUNCT	_	_	9	punct	_	_
+
+# sent_id = Grammar_gujarati-10
+# text = જ્યાં હું રહું છું અને જ્યાં હું કામ કરું છું , તેમાં બે કિલોમીટરનો અંતર છે .
+# source = pg 86
+# language = Gujarati
+# translit = jyā̃ hũ rahũ chũ ane jyā̃ hũ kām karũ chũ, temā̃ be kilomīṭar-no antar che
+# translation = There is a distance of two kilometers between where I live and where I work.
+1	જ્યાં	જ્યાં	ADV	_	_	3	advmod	_	Gloss=where|GuGloss=જ્યાં
+2	હું	હું	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Gloss=i.nom|GuGloss=હું
+3	રહું	રહેવું	VERB	_	Aspect=Hab|Gender=Masc|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	Gloss=live-prs|GuGloss=રહું
+4	છું	છે	AUX	_	_	3	aux	_	Gloss=be.prs|GuGloss=છું
+5	અને	અને	CCONJ	_	_	9	cc	_	Gloss=and|GuGloss=અને
+6	જ્યાં	જ્યાં	ADV	_	_	9	advmod	_	Gloss=where|GuGloss=જ્યાં
+7	હું	હું	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	Gloss=i.nom|GuGloss=હું
+8	કામ	કામ	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	9	obj	_	Gloss=work-prs|GuGloss=કામ
+9	કરું	કરવું	VERB	_	Aspect=Hab|Gender=Masc|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	conj	_	Gloss=be.prs|GuGloss=કરું
+10	છું	છું	AUX	_	_	9	aux	_	Gloss=being-|GuGloss=છું
+11	,	,	PUNCT	_	_	9	punct	_	_
+12	તેમાં	તેમાં	PRON	_	Case=Loc|Number=Sing|PronType=Dem	14	obl	_	Gloss=there-loc|GuGloss=તેમાં
+13	બે	બે	NUM	_	_	14	nummod	_	Gloss=two|GuGloss=બે
+14	કિલોમીટરનો	કિલોમીટરનો	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	15	advmod	_	Gloss=kilometer-gen|GuGloss=કિલોમીટરનો
+15	અંતર	અંતર	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	16	nsubj	_	Gloss=distance|GuGloss=અંતર
+16	છે	છે	AUX	_	_	0	root	_	Gloss=Gloss=be.prs
+17	.	.	PUNCT	_	_	16	punct	_	_
+
+# sent_id = Grammar_gujarati-11
+# text = જ્યાંથી એ આવે છે , તે જગ્યા ઉજળ છે .
+# source = pg 86
+# language = Gujarati
+# translit = jyā̃thī e āve che, te jagyā ujāḷ che
+# translation = The place where he comes from is deserted.
+1	જ્યાંથી	જ્યાંથી	ADV	_	_	3	advmod	_	Gloss=where-abl|GuGloss=જ્યાંથી
+2	એ	એ	PRON	_	_	3	nsubj	_	Gloss=he|GuGloss=એ
+3	આવે	આવવું	VERB	_	Aspect=Hab|Mood=Ind|Number=Sing|Person=3|Tense=Pres	7	acl:relcl	_	Gloss=come-prs|GuGloss=આવે
+4	છે	છે	AUX	_	_	3	aux	_	Gloss=be.prs|GuGloss=છે
+5	,	,	PUNCT	_	_	3	punct	_	_
+6	તે	તે	DET	_	Number=Sing|PronType=Rel	7	det	_	Gloss=that|GuGloss=તે
+7	જગ્યા	જગ્યા	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	8	nsubj	_	Gloss=place|GuGloss=જગ્યા
+8	ઉજળ	ઉજળ	ADJ	_	_	0	root	_	Gloss=deserted|GuGloss=ઉજળ
+9	છે	છે	AUX	_	_	8	aux	_	Gloss=be.prs|GuGloss=છે
+10	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = Grammar_gujarati-12
+# text = જ્યારે હું આવ્યો , ત્યારે એ પણ આવ્યો .
+# source = pg 86
+# language = Gujarati
+# translit = jyāre hũ āvyo, tyāre e paṇ āvyo
+# translation = When I came, he also came.
+1	જ્યારે	જ્યારે	ADV	_	_	3	advmod	_	Gloss=when|GuGloss=જ્યારે
+2	હું	હું	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Gloss=i.nom|GuGloss=હું
+3	આવ્યો	આવ્યો	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	8	advcl	_	Gloss=come-pst.ptcp|GuGloss=આવ્યો
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	ત્યારે	ત્યારે	ADV	_	_	8	advmod	_	Gloss=then|GuGloss=ત્યારે
+6	એ	એ	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	Gloss=he|GuGloss=એ
+7	પણ	પણ	PART	_	_	6	advmod	_	Gloss=also|GuGloss=પણ
+8	આવ્યો	આવ્યો	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	Gloss=come-pst.ptcp|GuGloss=આવ્યો
+9	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = Grammar_gujarati-13
+# text = પ્રવીણ આવ્યો નથી , કારણકે એની તબિયત ઠીક ન હતી .
+# source = pg 87
+# language = Gujarati
+# translit = pravīṇ āvyo nathī, kāraṇ ke enī tabiyat ṭhīk na hatī
+# translation = Pravin did not come because he was unwell.
+1	પ્રવીણ	પ્રવીણ	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	Gloss=pravin|GuGloss=પ્રવીણ
+2	આવ્યો	આવ્યો	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	Gloss=come-pst.ptcp|GuGloss=આવ્યો
+3	નથી	નથી	AUX	_	_	2	aux	_	Gloss=neg.be.prs|GuGloss=નથી
+4	,	,	PUNCT	_	_	2	punct	_	_
+5	કારણકે	કારણકે	SCONJ	_	_	8	mark	_	_
+6	એની	એની	PRON	_	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	7	nmod:poss	_	Gloss=health|GuGloss=એની
+7	તબિયત	તબિયત	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	8	nsubj	_	Gloss=health|GuGloss=તબિયત
+8	ઠીક	ઠીક	ADJ	_	_	2	advcl	_	Gloss=well|GuGloss=ઠીક
+9	ન	ન	PART	_	_	8	advmod	_	Gloss=neg|GuGloss=ન
+10	હતી	હતી	AUX	_	Mood=Ind	8	cop	_	Gloss=be-pst
+11	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = Grammar_gujarati-14
+# text = તું આ કામ કરત , તો આ ન થાત .
+# source = pg 87
+# language = Gujarati
+# translit = tu ā kām karat, to ā na thāt
+# translation = If you had done this work, this would not have happened.
+1	તું	તું	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	Gloss=you.nom|GuGloss=તું
+2	આ	આ	DET	_	_	3	det	_	Gloss=this|GuGloss=આ
+3	કામ	કામ	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	4	obj	_	Gloss=work|GuGloss=કામ
+4	કરત	કરત	VERB	_	Gender=Masc|Mood=Cond|Number=Sing|Tense=Past|VerbForm=Fin	9	advcl	_	Gloss=do-cond|GuGloss=કરત
+5	,	,	PUNCT	_	Mood=Cond	9	punct	_	_
+6	તો	તો	PART	_	_	4	mark	_	Gloss=then|GuGloss=તો
+7	આ	આ	PRON	_	Gender=Neut|Number=Sing|PronType=Dem	9	nsubj	_	Gloss=this|GuGloss=આ
+8	ન	ન	PART	_	_	9	advmod	_	Gloss=neg|GuGloss=ન
+9	થાત	થાત	VERB	_	Gender=Neut|Mood=Cond|Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	Gloss=happen-cond|GuGloss=થાત
+10	.	.	PUNCT	_	Mood=Cond	9	punct	_	_
+
+# sent_id = Grammar_gujarati-15
+# text = ટીવી જોવાથી , મારી આંખ ખરાબ થઈ છે .
+# source = pg 88
+# language = Gujarati
+# translit = ṭīvī jovā-thī, mārī ā̃kh kharāb thaī che
+# translation = My eyes have gone bad from watching TV.
+1	ટીવી	ટીવી	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	2	obj	_	Gloss=tv|GuGloss=ટીવી
+2	જોવાથી	જોવાથી	VERB	_	VerbForm=Inf	7	advcl	_	Gloss=watch-inf-abl|GuGloss=જોવાથી
+3	,	,	PUNCT	_	_	7	punct	_	_
+4	મારી	મારી	PRON	_	Case=Gen|Gender=Fem|Number=Sing|Person=1|Poss=Yes|PronType=Prs	5	nmod:poss	_	Gloss=my.f|GuGloss=મારી
+5	આંખ	આંખ	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	7	nsubj	_	Gloss=eye|GuGloss=આંખ
+6	ખરાબ	ખરાબ	ADJ	_	_	7	xcomp	_	Gloss=bad|GuGloss=ખરાબ
+7	થઈ	થઈ	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	Gloss=become-pst.ptcp|GuGloss=થઈ
+8	છે	છે	AUX	_	_	7	aux	_	Gloss=be.prs|GuGloss=છે
+9	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = Grammar_gujarati-16
+# text = મારી તબિયત ખરાબ હોવાથી હું ઘરે રહ્યો .
+# source = pg 88
+# language = Gujarati
+# translit = mārī tabiyat kharāb hovāthī hũ ghare rahyo
+# translation = I stayed home because of bad health.
+1	મારી	મારી	PRON	_	Case=Gen|Gender=Fem|Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	nmod:poss	_	Gloss=my.gen|GuGloss=મારી
+2	તબિયત	તબિયત	NOUN	_	_	4	nsubj	_	Gloss=health|GuGloss=તબિયત
+3	ખરાબ	ખરાબ	ADJ	_	_	4	xcomp	_	Gloss=bad|GuGloss=ખરાબ
+4	હોવાથી	હોવાથી	VERB	_	Case=Ins|VerbForm=Inf	7	advcl	_	Gloss=be-conv|GuGloss=હોવાથી
+5	હું	હું	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	Gloss=i.nom|GuGloss=હું
+6	ઘરે	ઘરે	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	7	obl	_	Gloss=home-loc|GuGloss=ઘરે
+7	રહ્યો	રહ્યો	VERB	_	Mood=Ind	0	root	_	Gloss=stay-pst.ptcp|GuGloss=રહ્યો
+8	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = Student_pledge-1
+# text = ભારત મારો દેશ છે .
+# source = text3_pg94
+# language = Gujarati
+# translit = bhārat māro deś che
+# translation = India is my country.
+1	ભારત	ભારત	PROPN	_	Case=Nom	3	nsubj	_	Gloss=india|GuGloss=ભારત
+2	મારો	હું	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	3	nmod:poss	_	Gloss=my|GuGloss=મારો
+3	દેશ	દેશ	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	0	root	_	Gloss=country|GuGloss=દેશ
+4	છે	છે	AUX	_	_	3	cop	_	Gloss=is|GuGloss=છે
+5	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = Student_pledge-2
+# text = બધા ભારતીય મારા ભાઈ બહેન છે .
+# source = text3_pg94
+# language = Gujarati
+# translit = badhā bhāratīya mārā bhāī bahen che
+# translation = All Indians are my brothers and sisters.
+1	બધા	બધા	DET	_	Gender=Masc|Number=Plur|PronType=Tot	2	det	_	Gloss=all|GuGloss=બધા
+2	ભારતીય	ભારતીય	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	5	nsubj	_	Gloss=indians|GuGloss=ભારતીય
+3	મારા	હું	PRON	_	Case=Gen|Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	5	nmod:poss	_	Gloss=my|GuGloss=મારા
+4	ભાઈ	ભાઈ	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	0	root	_	Gloss=brother|GuGloss=ભાઈ
+5	બહેન	બહેન	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	4	conj	_	Gloss=sister|GuGloss=બહેન
+6	છે	છે	AUX	_	_	5	cop	_	Gloss=are|GuGloss=છે
+7	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = Student_pledge-3
+# text = હું મારા દેશને ચાહું છું .
+# source = text3_pg94
+# language = Gujarati
+# translit = hũ mārā deś-ne chāhũ chũ
+# translation = I love my country.
+1	હું	હું	PRON	_	Person=1|PronType=Prs	5	nsubj	_	Gloss=i|GuGloss=હું
+2	મારા	હું	PRON	_	PronType=Prs	3	nmod:poss	_	Gloss=my|GuGloss=મારા
+3-4	દેશને	_	_	_	_	_	_	_	_
+3	દેશ	દેશ	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	5	obj	_	Gloss=country|GuGloss=દેશ
+4	ને	ને	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	3	conj	_	Gloss=acc|GuGloss=ને
+5	ચાહું	ચાહવું	VERB	_	Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=loving|GuGloss=ને
+6	છું	છે	AUX	_	_	5	aux	_	Gloss=am|GuGloss=ચાહું
+7	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = Student_pledge-4
+# text = અને તેના સમૃદ્ધ અને વૈવિધ્યપૂર્ણ વારસાનો મને ગર્વ છે .
+# source = text3_pg94
+# language = Gujarati
+# translit = ane tenā samr̥ddh ane vaividhyapūrṇa vārasā-no mane garv che
+# translation = And I am proud of its rich and varied heritage.
+1	અને	અને	CCONJ	_	_	7	cc	_	Gloss=and|GuGloss=અને
+2	તેના	તે	PRON	_	Number=Sing|Person=3|PronType=Prs	7	nmod:poss	_	Gloss=its|GuGloss=તેના
+3	સમૃદ્ધ	સમૃદ્ધ	ADJ	_	_	7	amod	_	Gloss=wide|GuGloss=સમૃદ્ધ
+4	અને	અને	CCONJ	_	_	5	cc	_	Gloss=and|GuGloss=અને
+5-6	વૈવિધ્યપૂર્ણ	_	_	_	_	_	_	_	_
+5	વૈવિધ્ય	વૈવિધ્ય	ADJ	_	_	3	conj	_	Gloss=varied|GuGloss=વૈવિધ્ય
+6	પૂર્ણ	પૂર્ણ	ADJ	_	_	3	conj	_	Gloss=full|GuGloss=પૂર્ણ
+7	વારસાનો	વારસો	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	Gloss=heritage|GuGloss=વારસો
+8	મને	હું	PRON	_	Number=Sing|Person=1|PronType=Prs	9	obl	_	Gloss=me|GuGloss=મને
+9	ગર્વ	ગર્વ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	Gloss=proud|GuGloss=ગર્વ
+10	છે	છે	AUX	_	_	9	cop	_	Gloss=is|GuGloss=છે
+11	.	.	PUNCT	_	_	9	punct	_	_
+
+# sent_id = Student_pledge-5
+# text = હું સદાય તેને લાયક બનવા પ્રયત્ન કરીશ .
+# source = text3_pg94
+# language = Gujarati
+# translit = hũ sadāy tene lāyak banvā prayatna karīś
+# translation = I shall always strive to be worthy of it.
+1	હું	હું	PRON	_	Number=Sing|Person=1|PronType=Prs	7	nsubj	_	Gloss=i|GuGloss=હું
+2	સદાય	સદાય	ADV	_	_	6	advmod	_	Gloss=always|GuGloss=સદાય
+3	તેને	તેને	PRON	_	Number=Sing|Person=3|PronType=Prs	4	obl	_	Gloss=it|GuGloss=તેને
+4	લાયક	લાયક	ADJ	_	_	5	xcomp	_	Gloss=worthy|GuGloss=લાયક
+5	બનવા	બનવા	VERB	_	VerbForm=Inf	6	advcl	_	Gloss=become|GuGloss=બનવા
+6	પ્રયત્ન	પ્રયત્ન	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	7	obj	_	Gloss=attempt|GuGloss=પ્રયત્ન
+7	કરીશ	કરવું	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Fut	0	root	_	Gloss=do|GuGloss=કરીશ
+8	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = Student_pledge-6
+# text = હું મારા માતા પિતા , શિક્ષકો અને વડીલો પ્રત્યે આદર રાખીશ .
+# source = text3_pg94
+# language = Gujarati
+# translit = hũ mārā mātā pitā, śikṣako ane vaḍīlo pratyē ādar rākhīś
+# translation = I shall give respect to my parents, teachers and elders.
+1	હું	હું	PRON	_	Number=Sing|Person=1|PronType=Prs	11	nsubj	_	Gloss=i|GuGloss=હું
+2	મારા	મારા	PRON	_	Number=Plur|Person=1|Poss=Yes|PronType=Prs	3	nmod:poss	_	Gloss=my|GuGloss=મારા
+3	માતા	માતા	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	11	obl	_	Gloss=mother|GuGloss=માતા
+4	પિતા	પિતા	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	3	conj	_	Gloss=father|GuGloss=પિતા
+5	,	,	PUNCT	_	_	6	punct	_	_
+6	શિક્ષકો	શિક્ષક	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	4	conj	_	Gloss=teachers|GuGloss=શિક્ષકો
+7	અને	અને	CCONJ	_	_	8	cc	_	Gloss=and|GuGloss=અને
+8	વડીલો	વડીલ	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	4	conj	_	Gloss=elders|GuGloss=વડીલો
+9	પ્રત્યે	પ્રત્યે	ADP	_	_	3	case	_	Gloss=for|GuGloss=પ્રત્યે
+10	આદર	આદર	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	11	obj	_	Gloss=respect|GuGloss=આદર
+11	રાખીશ	રાખવું	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Fut	0	root	_	Gloss=keep|GuGloss=રાખીશ
+12	.	.	PUNCT	_	_	11	punct	_	_
+
+# sent_id = Student_pledge-7
+# text = અને દરેક જન સાથે સભ્યતા થી વર્તીશ .
+# source = text3_pg94
+# language = Gujarati
+# translit = ane darek jan sāthe sabhyatā-thī vartīś
+# translation = And treat everyone with courtesy.
+1	અને	અને	CCONJ	_	_	5	cc	_	Gloss=and|GuGloss=અને
+2	દરેક	દરેક	DET	_	Number=Sing|PronType=Tot	3	det	_	Gloss=every|GuGloss=દરેક
+3	જન	જન	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	5	obl	_	Gloss=one|GuGloss=જન
+4	સાથે	સાથે	ADP	_	_	3	case	_	Gloss=with|GuGloss=સાથે
+5	સભ્યતા	સભ્યતા	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	7	nmod	_	Gloss=respect|GuGloss=સભ્યતા
+6	થી	થી	ADP	_	Case=Ins	5	case	_	Gloss=with|GuGloss=થી
+7	વર્તીશ	વર્તવું	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	0	root	_	Gloss=behave|GuGloss=વર્તવું
+8	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = Student_pledge-8
+# text = હું મારા દેશ અને દેશબાંધવો પ્રત્યે વફાદારી રાખવાની પ્રતિજ્ઞા લઉં છું .
+# source = — text3_pg94
+# language = Gujarati
+# translit = hũ mārā deś ane deśbāndhavo pratyē vafādārī rākhvānī pratijñā laũ chũ
+# translation = To my country and my people, I pledge my devotion.
+1	હું	હું	PRON	_	Number=Sing|Person=1|PronType=Prs	10	nsubj	_	Gloss=i|GuGloss=હું
+2	મારા	હું	PRON	_	Number=Plur|Person=1|PronType=Prs	3	nmod:poss	_	Gloss=my|GuGloss=મારા
+3	દેશ	દેશ	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	10	obl	_	Gloss=country|GuGloss=દેશ
+4	અને	અને	CCONJ	_	_	5	cc	_	Gloss=and|GuGloss=અને
+5	દેશબાંધવો	દેશબાંધવ	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	3	conj	_	Gloss=countrymen|GuGloss=દેશબાંધવો
+6	પ્રત્યે	પ્રત્યે	ADP	_	_	3	case	_	Gloss=for|GuGloss=પ્રત્યે
+7	વફાદારી	વફાદારી	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	8	obj	_	Gloss=fidelity|GuGloss=વફાદારી
+8	રાખવાની	રાખવું	VERB	_	VerbForm=Inf	9	nmod	_	Gloss=keep+conn.part|GuGloss=રાખવાની
+9	પ્રતિજ્ઞા	પ્રતિજ્ઞા	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	10	obj	_	Gloss=pledge|GuGloss=પ્રતિજ્ઞા
+10	લઉં	લેવું	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=taking|GuGloss=લઉં
+11	છું	છે	AUX	_	_	10	aux	_	Gloss=am|GuGloss=છું
+12	.	.	PUNCT	_	_	10	punct	_	_
+
+# sent_id = Student_pledge-9
+# text = તેમના કલ્યાણ અને સમૃદ્ધિ માં જ મારું સુખ સમાયેલું છે .
+# source = — text3_pg94
+# language = Gujarati
+# translit = temnā kalyāṇ ane samr̥ddhi-mā̃ ja mārũ sukh samāyelũ che
+# translation = In their well-being and prosperity alone lies my happiness.
+1	તેમના	તે	PRON	_	Case=Gen|Gender=Masc|Number=Plur|Person=3|Poss=Yes|PronType=Prs	2	nmod:poss	_	Gloss=their|GuGloss=તેમના
+2	કલ્યાણ	કલ્યાણ	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	8	nmod	_	Gloss=well-being|GuGloss=કલ્યાણ
+3	અને	અને	CCONJ	_	_	4	cc	_	Gloss=and|GuGloss=અને
+4	સમૃદ્ધિ	સમૃદ્ધિ	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	2	conj	_	Gloss=prosperity|GuGloss=સમૃદ્ધિ
+5	માં	માં	ADP	_	Case=Loc	4	case	_	Gloss=in|GuGloss=માં
+6	જ	જ	PART	_	_	2	advmod	_	Gloss=only|GuGloss=જ
+7	મારું	હું	PRON	_	Case=Gen|Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	8	nmod:poss	_	Gloss=my|GuGloss=જ
+8	સુખ	સુખ	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	9	nsubj	_	Gloss=happiness|GuGloss=સુખ
+9	સમાયેલું	સમાવું	VERB	_	Number=Sing|VerbForm=Part	0	root	_	Gloss=lying|GuGloss=સમાવું
+10	છે	છે	AUX	_	_	9	aux	_	Gloss=is|GuGloss=છે
+11	.	.	PUNCT	_	_	9	punct	_	_
+
