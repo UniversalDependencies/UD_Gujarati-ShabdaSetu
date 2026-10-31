@@ -648,7 +648,7 @@
 2	કલ્યાણ	કલ્યાણ	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	8	nmod	_	Gloss=well-being|GuGloss=કલ્યાણ
 3	અને	અને	CCONJ	_	_	4	cc	_	Gloss=and|GuGloss=અને
 4	સમૃદ્ધિ	સમૃદ્ધિ	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	2	conj	_	Gloss=prosperity|GuGloss=સમૃદ્ધિ
-5	માં	માં	ADP	_	Case=Loc	4	case	_	Gloss=in|GuGloss=માં
+5	માં	માં	ADP	_	_	4	case	_	Gloss=in|GuGloss=માં
 6	જ	જ	PART	_	_	2	advmod	_	Gloss=only|GuGloss=જ
 7	મારું	હું	PRON	_	Case=Gen|Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	8	nmod:poss	_	Gloss=my|GuGloss=જ
 8	સુખ	સુખ	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	9	nsubj	_	Gloss=happiness|GuGloss=સુખ
