@@ -612,10 +612,10 @@
 # translation = And treat everyone with courtesy.
 1	અને	અને	CCONJ	_	_	5	cc	_	Gloss=and|GuGloss=અને
 2	દરેક	દરેક	DET	_	Number=Sing|PronType=Tot	3	det	_	Gloss=every|GuGloss=દરેક
-3	જન	જન	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	5	obl	_	Gloss=one|GuGloss=જન
+3	જન	જન	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	7	obl	_	Gloss=one|GuGloss=જન
 4	સાથે	સાથે	ADP	_	_	3	case	_	Gloss=with|GuGloss=સાથે
 5	સભ્યતા	સભ્યતા	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	7	nmod	_	Gloss=respect|GuGloss=સભ્યતા
-6	થી	થી	ADP	_	Case=Ins	5	case	_	Gloss=with|GuGloss=થી
+6	થી	થી	ADP	_	_	5	case	_	Gloss=with|GuGloss=થી
 7	વર્તીશ	વર્તવું	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	0	root	_	Gloss=behave|GuGloss=વર્તવું
 8	.	.	PUNCT	_	_	7	punct	_	_
 
@@ -655,5 +655,4 @@
 9	સમાયેલું	સમાવું	VERB	_	Number=Sing|VerbForm=Part	0	root	_	Gloss=lying|GuGloss=સમાવું
 10	છે	છે	AUX	_	_	9	aux	_	Gloss=is|GuGloss=છે
 11	.	.	PUNCT	_	_	9	punct	_	_
-
 
