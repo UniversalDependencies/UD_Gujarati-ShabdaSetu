@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treebank>
+  <!-- tokens means "surface tokens", e.g. Spanish "vámonos" counts as one token
+       words means "syntactic words", e.g. Spanish "vámonos" is split to two words, "vamos" and "nos"
+       fused is the number of tokens that are split to two or more syntactic words
+       The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
+  <size>
+    <total><sentences>38</sentences><tokens>386</tokens><words>389</words><fused>3</fused></total>
+    <train><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></train>
+    <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
+    <test><sentences>38</sentences><tokens>386</tokens><words>389</words><fused>3</fused></test>
+  </size>
+  <lemmas unique="178" /><!-- ., ,, હું, છે, અને, કરવું, ન, તું, હતું, હાથી, આ, આવવું, તે, તો, થવું -->
+  <forms unique="208" /><!-- ., ,, અને, છે, હું, તું, મારા, આ, તો, પણ, આવ્યો, એક, છું, ન, મચ્છર -->
+  <fusions unique="3" /><!-- દેશને, મારાથી, વૈવિધ્યપૂર્ણ -->
+  <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
+  <tags unique="14">
+    <tag name="ADJ">17</tag><!-- ખરાબ, નાનો, ઉજળ, ગાંડો, ઠીક, નાનું, પૂર્ણ, બળવાન, બહુ, માફ -->
+    <tag name="ADP">8</tag><!-- થી, પ્રત્યે, માં, વિષે, સાથે, હેઠળ -->
+    <tag name="ADV">20</tag><!-- બહાર, આજ, જ્યાં, અંદર, એટલો, કાલ, કેમ, છેવટે, જરૂર, જ્યાંથી -->
+    <tag name="AUX">33</tag><!-- છે, હતું, હોવું, ન, ગયું -->
+    <tag name="CCONJ">19</tag><!-- અને, પણ, અથવા, છતાંપણ -->
+    <tag name="DET">13</tag><!-- એક, આ, કંઈ, ઘણા, તે, દરેક, બધા, બધું -->
+    <tag name="NOUN">75</tag><!-- હાથી, મચ્છર, કામ, તબિયત, દેશ, ભાઈ, પગ, પ્રયત્ન, હાથીએ, અંતર -->
+    <tag name="NUM">2</tag><!-- બે -->
+    <tag name="PART">13</tag><!-- ન, તો, જ, નહિ, પણ, ભલે -->
+    <tag name="PRON">55</tag><!-- હું, તું, એ, તે, મારા, આ, એને, જે, મારી, શું -->
+    <tag name="PROPN">4</tag><!-- પ્રવીણ, ભારત, મગન, લીના -->
+    <tag name="PUNCT">63</tag><!-- ., ,, :, ? -->
+    <tag name="SCONJ">5</tag><!-- કે, તો, કારણકે -->
+    <tag name="VERB">62</tag><!-- કરવું, આવવું, થવું, રાખવું, કેહવું, નીકળવું, રહેવું, આપ્યો, આવ્યો, ઉંચક્યો -->
+  </tags>
+  <!-- Statistics of features and values. The comments show the most frequent word forms. -->
+  <feats unique="36">
+    <feat name="Aspect" value="Hab" upos="VERB">5</feat><!-- આવે, કરું, થતી, રહું, રહે -->
+    <feat name="Aspect" value="Perf" upos="AUX,VERB">23</feat><!-- આવ્યો, થઈ, ઉંચક્યો, કરતો, કર્યા, કર્યું, કહ્યું, ગયો, ચેતવ્યો, જોયું -->
+    <feat name="Case" value="Acc" upos="NOUN,PRON">16</feat><!-- દેશ, મને, એને, છોકરાને, તને, દેશબાંધવો, ને, પિતા, મચ્છરને, માતા -->
+    <feat name="Case" value="Dat" upos="NOUN">1</feat><!-- હાથીને -->
+    <feat name="Case" value="Erg" upos="NOUN,PRON,PROPN">7</feat><!-- હાથીએ, એને, મચ્છરે, લીનાએ -->
+    <feat name="Case" value="Gen" upos="NOUN,PRON,PROPN">14</feat><!-- મારા, મારી, મારો, એની, કિલોમીટરનો, તેમના, મગનની, મચ્છરને, મારું, વારસાનો -->
+    <feat name="Case" value="Ins" upos="NOUN">3</feat><!-- નાનાથી, મોટાથી, સભ્યતા -->
+    <feat name="Case" value="Loc" upos="NOUN,PRON">8</feat><!-- કાનમાં, ઘરે, તેમાં, દિવસમાં, પળમાં, મનમાં, મારામાં, સમૃદ્ધિ -->
+    <feat name="Case" value="Nom" upos="NOUN,PRON,PROPN">57</feat><!-- તું, હું, કામ, મચ્છર, એ, તબિયત, પગ, પ્રયત્ન, હાથી, અંતર -->
+    <feat name="Case" value="Voc" upos="NOUN">3</feat><!-- ભાઈ, મચ્છર -->
+    <feat name="ExtPos" value="ADP" upos="ADP">2</feat><!-- વિષે, હેઠળ -->
+    <feat name="Gender" value="Fem" upos="AUX,NOUN,PRON,PROPN,VERB">26</feat><!-- તબિયત, મારી, હતી, આંખ, એની, કમી, જગ્યા, તેની, થઈ, થતી -->
+    <feat name="Gender" value="Masc" upos="AUX,DET,NOUN,PRON,PROPN,VERB">70</feat><!-- હાથીએ, આવ્યો, ગયો, ભાઈ, દેશ, પગ, પ્રયત્ન, મારા, મારો, હાથી -->
+    <feat name="Gender" value="Neut" upos="AUX,DET,NOUN,PRON,VERB">33</feat><!-- મચ્છર, કામ, આ, કહ્યું, મચ્છરને, ઉડી, કલ્યાણ, ઘરે, છું, જોયું -->
+    <feat name="Mood" value="Imp" upos="VERB">5</feat><!-- કર, કરો, દેખાડ, નીકળો -->
+    <feat name="Mood" value="Ind" upos="AUX,VERB">46</feat><!-- આવ્યો, ગયો, છે, કહ્યું, થઈ, હતી, હતો, આપ્યો, આવીશ, આવે -->
+    <feat name="Mood" value="Sub" upos="AUX,VERB">9</feat><!-- હોત, કરત, કરતો, કર્યું, થાત, નાખું -->
+    <feat name="Number" value="Plur" upos="DET,NOUN,PRON,VERB">17</feat><!-- મારા, કરો, કર્યા, કહો, ઘણા, તેમના, દેશબાંધવો, નીકળો, પ્રયત્ન, બધા -->
+    <feat name="Number" value="Sing" upos="AUX,DET,NOUN,PRON,VERB">161</feat><!-- હું, તું, આ, આવ્યો, મચ્છર, હાથીએ, એને, કામ, દેશ, મને -->
+    <feat name="Person" value="1" upos="PRON,VERB">32</feat><!-- હું, મારા, મને, મારી, આવીશ, કરીશ, કરું, નાખું, મારામાં, મારું -->
+    <feat name="Person" value="2" upos="PRON,VERB">13</feat><!-- તું, કર, કરો, કહો, તને, દેખાડ, નીકળો -->
+    <feat name="Person" value="3" upos="PRON,VERB">13</feat><!-- એ, એને, આવે, એની, ગયો, તેના, તેની, તેને, તેમના -->
+    <feat name="Poss" value="Yes" upos="PRON">10</feat><!-- મારા, મારી, મારો, એની, તેમના, મારું -->
+    <feat name="PronType" value="Dem" upos="DET,PRON">7</feat><!-- આ, તે, તેમાં -->
+    <feat name="PronType" value="Ind" upos="DET">5</feat><!-- એક, કંઈ, ઘણા -->
+    <feat name="PronType" value="Int" upos="PRON">3</feat><!-- શું, કોણ -->
+    <feat name="PronType" value="Prs" upos="DET,PRON">47</feat><!-- હું, તું, મારા, એ, એને, મને, મારી, મારો, એક, એની -->
+    <feat name="PronType" value="Rel" upos="DET,PRON">3</feat><!-- જે, તે -->
+    <feat name="PronType" value="Tot" upos="DET">3</feat><!-- દરેક, બધા, બધું -->
+    <feat name="Tense" value="Fut" upos="VERB">4</feat><!-- આવીશ, કરીશ, રાખીશ, વર્તીશ -->
+    <feat name="Tense" value="Past" upos="AUX,VERB">36</feat><!-- આવ્યો, હોત, કરત, કહ્યું, ગયો, થઈ, આપ્યો, ઉંચક્યો, ઉડી, કરતો -->
+    <feat name="Tense" value="Pres" upos="VERB">8</feat><!-- આવે, કરું, ચાહું, થતી, નાખું, રહું, રહે, લઉં -->
+    <feat name="VerbForm" value="Conv" upos="VERB">6</feat><!-- કચડી, કચડીને, જઈને, જોઈને, રાખીને, સાંભળીને -->
+    <feat name="VerbForm" value="Fin" upos="VERB">44</feat><!-- આવ્યો, કર, કરત, કહ્યું, થઈ, આપ્યો, આવીશ, આવે, ઉંચક્યો, ઉડી -->
+    <feat name="VerbForm" value="Inf" upos="VERB">8</feat><!-- કાઢવા, ગણગણવા, જોવાથી, બનવા, બિહવું, રાખવાની, લડવું, હોવાથી -->
+    <feat name="VerbForm" value="Part" upos="VERB">2</feat><!-- કરતો, સમાયેલું -->
+  </feats>
+  <!-- Statistics of universal dependency relations. -->
+  <deps unique="26">
+    <dep name="acl:relcl">3</dep>
+    <dep name="advcl">20</dep>
+    <dep name="advmod">30</dep>
+    <dep name="amod">2</dep>
+    <dep name="aux">24</dep>
+    <dep name="case">8</dep>
+    <dep name="cc">19</dep>
+    <dep name="ccomp">1</dep>
+    <dep name="compound">1</dep>
+    <dep name="compound:svc">1</dep>
+    <dep name="conj">17</dep>
+    <dep name="cop">6</dep>
+    <dep name="det">15</dep>
+    <dep name="discourse">1</dep>
+    <dep name="mark">7</dep>
+    <dep name="nmod">7</dep>
+    <dep name="nmod:poss">17</dep>
+    <dep name="nsubj">49</dep>
+    <dep name="nummod">2</dep>
+    <dep name="obj">27</dep>
+    <dep name="obl">16</dep>
+    <dep name="parataxis">5</dep>
+    <dep name="punct">63</dep>
+    <dep name="root">38</dep>
+    <dep name="vocative">3</dep>
+    <dep name="xcomp">7</dep>
+  </deps>
+</treebank>
